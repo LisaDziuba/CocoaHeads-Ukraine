@@ -3,8 +3,8 @@
 :bulb: CocoaHeads Ukraine brings together iOS & OSX developers for drinks and talks about anything Apple-related. It usually happens monthly in Kyiv. Organizing team: [Yuliya Keskin](https://www.facebook.com/yuliya.keskin), [Perto Korienev](https://www.facebook.com/soxjke), [Anastasiia Vixentael](https://www.facebook.com/messages/t/vixxentael), [Lisa Dziuba](https://twitter.com/LisaDziuba). 
 
 🎤 For information on upcoming meetups:
-* Follow us on [Facebook](https://www.facebook.com/CocoaHeadsUkraine/)
-* Follow us on [Twitter](https://twitter.com/CocoaHeadsUA) 
+* Follow CocoaHeads Ukraine on [Facebook](https://www.facebook.com/CocoaHeadsUkraine/)
+* Follow CocoaHeads Ukraine on [Twitter](https://twitter.com/CocoaHeadsUA) 
 
 # Talks 
 
