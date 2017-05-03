@@ -15,3 +15,11 @@
 | "Writing Swift Code with great testability" | [John Sundell](https://twitter.com/johnsundell) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://www.slideshare.net/JohnSundell/writing-swift-code-with-great-testability) | [Video (English)](https://youtu.be/HHEp4mcLXfk)
 | "Scaling an app to 175 million users" | [Matej Balantič](https://twitter.com/skavt) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/matejbalantic/scaling-an-app-to-175-million-users) | [Video (English)](https://youtu.be/EOr7b62lR3I)
 | "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/recative-life-by-perto-korienev) | [Video (Russian)](https://youtu.be/WXr3cN-xTZg)
+
+
+| 2016  | :santa: |  :date: | :pencil: |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------||
+|  "Snapshot testing with FBSnapshotTestCase"" | [Ahmed Sulaiman](https://twitter.com/ahmed_sulajman) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/snapshot-testing-with-fbsnapshottestcase-by-ahmed-sulaiman) | 
+|  "Integrate SiriKit into your application" | [Alexander Shapkin](https://www.facebook.com/profile.php?id=100002038601070)| 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/integrate-sirikit-into-your-application-by-alexander-shapkin) | 
+| "Simplicity - the guarantee of health" | [Alexander Korin](https://www.facebook.com/oleksa.korin) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/simplicity-the-guarantee-of-health-by-alexander-korin) | 
+|  "CoreData tips &tricks" | [Anton Fedorchenko](https://www.facebook.com/anton.fedorchenko.90) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/coredata-tips-and-tricks-by-anton-fedorchenko) | 
