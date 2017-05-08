@@ -39,4 +39,13 @@
 | "About iBlazr and how we made it friends with iOS" | [Andrew Skrypnik](https://www.facebook.com/AnarH93?fref=ts) | 11/06/2016 | No Presentation | [Video (Russian)](https://www.youtube.com/watch?v=wR8-R4QraUo)
 
 
+**CocoaHeads Kyiv #8**
+
+| 2016 | :santa: | :date: | :pencil: |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+|  "Result oriented communication with a server team" | [Paul Taykalo](https://www.facebook.com/ukrainianiphonedeveloper) | 5/03/2016 | [Presentation](https://speakerdeck.com/paultaykalo/result-oriented-communication-with-a-server-team) 
+|  "MVVM is dead. Leave it alone" | [Alexey Demedeckiy](https://www.facebook.com/alexey.demedeckiy) | 5/03/2016| [Presentation](https://speakerdeck.com/dalog/mvvm-is-dead)
+| "Why do you need to switch from Obj-C to Swift or let's talk about ReactiveCocoa4" | [Vitaly Malakhovsky](https://www.facebook.com/purpleshirted) | 5/03/2016 | [Presentation](https://speakerdeck.com/vmalakhovskiy/why-do-you-need-to-switch-from-obj-c-to-swift-or-lets-talk-about-reactivecocoa-v4)
+
+
 
