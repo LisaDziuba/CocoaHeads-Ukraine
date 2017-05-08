@@ -47,5 +47,13 @@
 |  "MVVM is dead. Leave it alone" | [Alexey Demedeckiy](https://www.facebook.com/alexey.demedeckiy) | 5/03/2016| [Presentation](https://speakerdeck.com/dalog/mvvm-is-dead)
 | "Why do you need to switch from Obj-C to Swift or let's talk about ReactiveCocoa4" | [Vitaly Malakhovsky](https://www.facebook.com/purpleshirted) | 5/03/2016 | [Presentation](https://speakerdeck.com/vmalakhovskiy/why-do-you-need-to-switch-from-obj-c-to-swift-or-lets-talk-about-reactivecocoa-v4)
 
+----
 
+**CocoaHeads Kyiv #7**
+
+| 2015 | :santa: | :date: | :pencil: |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| "Client-server + full offline. Two-way synchronization without couchbase."| Dmitriy Vorona | 17/12/2015 | [Presentation](https://speakerdeck.com/poteryaysya/two-way-sync) 
+|  "CoreData + Parse + Heroku. How To? And Why Not? BaaS, PaaS and other weird XaaS acronyms in my project."  | [Max Lunin](https://www.facebook.com/max.lunin) | 17/12/2015| [Presentation](https://speakerdeck.com/dalog/mvvm-is-dead)
+| "Bring me my shiny armor: magical tricks for fast and strong app security." |[Anastasiia Vixentael](https://www.facebook.com/messages/t/vixxentael) | 17/12/2015 | [Presentation](https://speakerdeck.com/vixentael/avoiding-damage-shame-and-regrets-data-protection-for-mobile-client-server-architectures)
 
