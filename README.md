@@ -54,6 +54,6 @@
 | 2015 | :santa: | :date: | :pencil: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | "Client-server + full offline. Two-way synchronization without couchbase."| Dmitriy Vorona | 17/12/2015 | [Presentation](https://speakerdeck.com/poteryaysya/two-way-sync) 
-|  "CoreData + Parse + Heroku. How To? And Why Not? BaaS, PaaS and other weird XaaS acronyms in my project."  | [Max Lunin](https://www.facebook.com/max.lunin) | 17/12/2015| [Presentation](https://speakerdeck.com/dalog/mvvm-is-dead)
+|  "CoreData + Parse + Heroku. How To? And Why Not? BaaS, PaaS and other weird XaaS acronyms in my project."  | [Max Lunin](https://www.facebook.com/max.lunin) | 17/12/2015| [Presentation](http://www.authorstream.com/Presentation/max304939-2695943-parse-heroku/)
 | "Bring me my shiny armor: magical tricks for fast and strong app security." |[Anastasiia Vixentael](https://www.facebook.com/messages/t/vixxentael) | 17/12/2015 | [Presentation](https://speakerdeck.com/vixentael/avoiding-damage-shame-and-regrets-data-protection-for-mobile-client-server-architectures)
 
