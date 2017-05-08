@@ -20,19 +20,23 @@
 
 ----
 
+:star2: CocoaHeads Kyiv #10
+
 | 2016 | :santa: | :date: | :pencil: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
-|  "Snapshot testing with FBSnapshotTestCase" | [Ahmed Sulaiman](https://twitter.com/ahmed_sulajman) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/snapshot-testing-with-fbsnapshottestcase-by-ahmed-sulaiman) 
-|  "Integrate SiriKit into your application" | [Alexander Shapkin](https://www.facebook.com/profile.php?id=100002038601070)| 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/integrate-sirikit-into-your-application-by-alexander-shapkin)
-| "Simplicity - the guarantee of health" | [Alexander Korin](https://www.facebook.com/oleksa.korin) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/simplicity-the-guarantee-of-health-by-alexander-korin)
-| "CoreData tips & tricks" | [Anton Fedorchenko](https://www.facebook.com/anton.fedorchenko.90) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/coredata-tips-and-tricks-by-anton-fedorchenko)
+|  "Snapshot testing with FBSnapshotTestCase" | [Ahmed Sulaiman](https://twitter.com/ahmed_sulajman) | 10/12/2016 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/snapshot-testing-with-fbsnapshottestcase-by-ahmed-sulaiman) 
+|  "Integrate SiriKit into your application" | [Alexander Shapkin](https://www.facebook.com/profile.php?id=100002038601070)| 10/12/2016, | [Presentation](https://speakerdeck.com/cocoaheadsukraine/integrate-sirikit-into-your-application-by-alexander-shapkin)
+| "Simplicity - the guarantee of health" | [Alexander Korin](https://www.facebook.com/oleksa.korin) | 10/12/2016 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/simplicity-the-guarantee-of-health-by-alexander-korin)
+| "CoreData tips & tricks" | [Anton Fedorchenko](https://www.facebook.com/anton.fedorchenko.90) | 10/12/2016 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/coredata-tips-and-tricks-by-anton-fedorchenko)
 
+
+:star2: CocoaHeads Kyiv #9
 
 | 2016 | :santa: | :date: | :pencil: | :movie_camera:|
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|---------------------------------|
-| "Controlling complexity for large iOS projects"| [Perto Korienev](https://www.facebook.com/soxjke) | 11/06/2016, CocoaHeads Kyiv #9 | [Presentation](https://speakerdeck.com/soxjke/controlling-complexity-for-large-ios-projects) | [Video (Russian)](https://www.youtube.com/watch?v=1QPhhaej06w)
-| "Upgrading approaches to the secure mobile architectures" | [Anastasiia Vixentael](https://www.facebook.com/messages/t/vixxentael) | 11/06/2016, CocoaHeads Kyiv #9 | [Presentation & Follow-up article](https://medium.com/@vixentael/upgrading-approaches-to-the-secure-mobile-architectures-7a8fcb10d28a)| [Video (Russian)](https://www.youtube.com/watch?v=elP6ABURwlA)
-| "About iBlazr and how we made it friends with iOS" | [Andrew Skrypnik](https://www.facebook.com/AnarH93?fref=ts) | 11/06/2016, CocoaHeads Kyiv #9 | No Presentation | [Video (Russian)](https://www.youtube.com/watch?v=wR8-R4QraUo)
+| "Controlling complexity for large iOS projects"| [Perto Korienev](https://www.facebook.com/soxjke) | 11/06/2016 | [Presentation](https://speakerdeck.com/soxjke/controlling-complexity-for-large-ios-projects) | [Video (Russian)](https://www.youtube.com/watch?v=1QPhhaej06w)
+| "Upgrading approaches to the secure mobile architectures" | [Anastasiia Vixentael](https://www.facebook.com/messages/t/vixxentael) | 11/06/2016 | [Presentation & Follow-up article](https://medium.com/@vixentael/upgrading-approaches-to-the-secure-mobile-architectures-7a8fcb10d28a)| [Video (Russian)](https://www.youtube.com/watch?v=elP6ABURwlA)
+| "About iBlazr and how we made it friends with iOS" | [Andrew Skrypnik](https://www.facebook.com/AnarH93?fref=ts) | 11/06/2016 | No Presentation | [Video (Russian)](https://www.youtube.com/watch?v=wR8-R4QraUo)
 
 
 
