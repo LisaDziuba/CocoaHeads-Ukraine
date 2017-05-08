@@ -8,7 +8,6 @@
 
 # Talks 
 
-:star2: CocoaHeads Kyiv #11
 | 2017 | :santa: | :date: | :pencil: | :movie_camera: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|---------------------------------|
 |  "Living in background" | [Andrew Skrypnik](https://www.facebook.com/AnarH93?fref=ts) | 04/03/2017 | [Presentation](https://speakerdeck.com/anarh93/cocoaheadsukraine-2017) | [Video (Russian)](https://youtu.be/5Q2-B0CAqK4)
