@@ -17,11 +17,11 @@
 | "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/recative-life-by-perto-korienev) | [Video (Russian)](https://youtu.be/WXr3cN-xTZg)
 
 
-| 2016 <img width="300px"/>| :santa: <img width="200px"/> | :date: <img width="100px"/> | :pencil: | :movie_camera: |
-|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|---------------------------------|
-|  "Snapshot testing with FBSnapshotTestCase" | [Ahmed Sulaiman](https://twitter.com/ahmed_sulajman) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/snapshot-testing-with-fbsnapshottestcase-by-ahmed-sulaiman) | No video
-|  "Integrate SiriKit into your application" | [Alexander Shapkin](https://www.facebook.com/profile.php?id=100002038601070)| 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/integrate-sirikit-into-your-application-by-alexander-shapkin)| No video
-| "Simplicity - the guarantee of health" | [Alexander Korin](https://www.facebook.com/oleksa.korin) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/simplicity-the-guarantee-of-health-by-alexander-korin)| No video
-| "CoreData tips & tricks" | [Anton Fedorchenko](https://www.facebook.com/anton.fedorchenko.90) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/coredata-tips-and-tricks-by-anton-fedorchenko) | No video
+| 2016 <img width="300px"/>| :santa: <img width="200px"/> | :date: <img width="100px"/> | :pencil: |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+|  "Snapshot testing with FBSnapshotTestCase" | [Ahmed Sulaiman](https://twitter.com/ahmed_sulajman) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/snapshot-testing-with-fbsnapshottestcase-by-ahmed-sulaiman) 
+|  "Integrate SiriKit into your application" | [Alexander Shapkin](https://www.facebook.com/profile.php?id=100002038601070)| 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/integrate-sirikit-into-your-application-by-alexander-shapkin)
+| "Simplicity - the guarantee of health" | [Alexander Korin](https://www.facebook.com/oleksa.korin) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/simplicity-the-guarantee-of-health-by-alexander-korin)
+| "CoreData tips & tricks" | [Anton Fedorchenko](https://www.facebook.com/anton.fedorchenko.90) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/coredata-tips-and-tricks-by-anton-fedorchenko)
 
 
