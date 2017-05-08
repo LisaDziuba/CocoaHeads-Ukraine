@@ -16,6 +16,7 @@
 | "Scaling an app to 175 million users" | [Matej Balantič](https://twitter.com/skavt) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/matejbalantic/scaling-an-app-to-175-million-users) | [Video (English)](https://youtu.be/EOr7b62lR3I)
 | "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/recative-life-by-perto-korienev) | [Video (Russian)](https://youtu.be/WXr3cN-xTZg)
 
+----
 
 | 2016 | :santa: | :date: | :pencil: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
