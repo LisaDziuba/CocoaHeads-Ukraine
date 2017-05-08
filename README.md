@@ -8,7 +8,7 @@
 
 # Talks 
 
-| 2017 <img width="300px"/>| :santa: <img width="200px"/>| :date: <img width="100px"/> | :pencil: | :movie_camera: |
+| 2017 | :santa: | :date: | :pencil: | :movie_camera: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|---------------------------------|
 |  "Living in background" | [Andrew Skrypnik](https://www.facebook.com/AnarH93?fref=ts) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/anarh93/cocoaheadsukraine-2017) | [Video (Russian)](https://youtu.be/5Q2-B0CAqK4)
 |  "Securing macOS app in practice" | Dmytro Tretiakov | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/securing-macos-app-in-practice-by-dmytro-tretiakov) | [Video (Russian)](https://youtu.be/IYtPIVvKAuU)
@@ -17,7 +17,7 @@
 | "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/recative-life-by-perto-korienev) | [Video (Russian)](https://youtu.be/WXr3cN-xTZg)
 
 
-| 2016 <img width="300px"/>| :santa: <img width="200px"/> | :date: <img width="100px"/> | :pencil: |
+| 2016 | :santa: | :date: | :pencil: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 |  "Snapshot testing with FBSnapshotTestCase" | [Ahmed Sulaiman](https://twitter.com/ahmed_sulajman) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/snapshot-testing-with-fbsnapshottestcase-by-ahmed-sulaiman) 
 |  "Integrate SiriKit into your application" | [Alexander Shapkin](https://www.facebook.com/profile.php?id=100002038601070)| 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/integrate-sirikit-into-your-application-by-alexander-shapkin)
