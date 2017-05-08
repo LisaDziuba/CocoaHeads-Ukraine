@@ -17,7 +17,7 @@
 | "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 04/03/2017,  CocoaHeads Kyiv #11 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/recative-life-by-perto-korienev) | [Video (Russian)](https://youtu.be/WXr3cN-xTZg)
 
 
-| 2016  | :santa: |  :date: | :pencil: | :movie_camera: |
+| 2016 <img width="300px"/>| :santa: <img width="200px"/> |  :date: <img width="100px"/>  | :pencil: | :movie_camera: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|---------------------------------|
 |  "Snapshot testing with FBSnapshotTestCase" | [Ahmed Sulaiman](https://twitter.com/ahmed_sulajman) | 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/snapshot-testing-with-fbsnapshottestcase-by-ahmed-sulaiman) | :stuck_out_tongue: 
 |  "Integrate SiriKit into your application" | [Alexander Shapkin](https://www.facebook.com/profile.php?id=100002038601070)| 10/12/2016,  CocoaHeads Kyiv #10 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/integrate-sirikit-into-your-application-by-alexander-shapkin)| :stuck_out_tongue:
