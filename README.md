@@ -16,7 +16,7 @@
 |  "Type-safe meta programming in Swift? Let's talk about Sourcery" | [Krzysztof Zablocki](https://twitter.com/merowing_) | 22/07/2017 | [Presentation](coming soon) | [Video (English)](coming soon)
 |  "How to find first users for your iOS/macOS product without budget" | [Lisa Dziuba](https://twitter.com/LisaDziuba) | 22/07/2017 | [Presentation](https://speakerdeck.com/lisadziuba/marketing-for-engineers) | [Video (Russian)](coming soon)
 | "MVVM+Router with Swift" | Oleksandr Stepanov | 22/07/2017 | [Presentation](coming soon)) | [Video (Russian)](coming soon)
-| "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 22/07/2017 | [Presentation](coming soon) | [Video (Russian)](coming soon)
+| ”Short fairytales with unhappy endings” | Oleksandr Korin | 22/07/2017 | [Presentation](coming soon) | [Video (Russian)](coming soon)
 
 **CocoaHeads Kyiv #11**
 
