@@ -15,8 +15,8 @@
 |   "Lost in maintenance: criteria of maintainable" | [Paul Taykalo](https://www.facebook.com/ukrainianiphonedeveloper) | 22/07/2017 | [Presentation](https://speakerdeck.com/paultaykalo/lost-in-maintenance-in-swift) | [Video (Russian)](coming soon)
 |  "Type-safe meta programming in Swift? Let's talk about Sourcery" | [Krzysztof Zablocki](https://twitter.com/merowing_) | 22/07/2017 | [Presentation](coming soon) | [Video (English)](coming soon)
 |  "How to find first users for your iOS/macOS product without budget" | [Lisa Dziuba](https://twitter.com/LisaDziuba) | 22/07/2017 | [Presentation](https://speakerdeck.com/lisadziuba/marketing-for-engineers) | [Video (Russian)](coming soon)
-| "Scaling an app to 175 million users" | [Matej Balantič](https://twitter.com/skavt) | 22/07/2017 | [Presentation](https://speakerdeck.com/matejbalantic/scaling-an-app-to-175-million-users) | [Video (English)](https://youtu.be/EOr7b62lR3I)
-| "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 22/07/2017 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/recative-life-by-perto-korienev) | [Video (Russian)](https://youtu.be/WXr3cN-xTZg)
+| "MVVM+Router with Swift" | Oleksandr Stepanov | 22/07/2017 | [Presentation](coming soon)) | [Video (Russian)](coming soon)
+| "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 22/07/2017 | [Presentation](coming soon) | [Video (Russian)](coming soon)
 
 **CocoaHeads Kyiv #11**
 
