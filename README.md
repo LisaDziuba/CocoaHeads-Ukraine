@@ -12,9 +12,9 @@
 
 | 2017 | :santa: | :date: | :pencil: | :movie_camera: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|---------------------------------|
-|   "Lost in maintenance: criteria of maintainable" | [Paul Taykalo](https://www.facebook.com/ukrainianiphonedeveloper) | 22/07/2017 | [Presentation](https://speakerdeck.com/anarh93/cocoaheadsukraine-2017) | [Video (Russian)](coming soon)
-|  "Securing macOS app in practice" | Dmytro Tretiakov | 22/07/2017 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/securing-macos-app-in-practice-by-dmytro-tretiakov) | [Video (Russian)](https://youtu.be/IYtPIVvKAuU)
-| "Writing Swift Code with great testability" | [John Sundell](https://twitter.com/johnsundell) | 22/07/2017 | [Presentation](https://www.slideshare.net/JohnSundell/writing-swift-code-with-great-testability) | [Video (English)](https://youtu.be/HHEp4mcLXfk)
+|   "Lost in maintenance: criteria of maintainable" | [Paul Taykalo](https://www.facebook.com/ukrainianiphonedeveloper) | 22/07/2017 | [Presentation](https://speakerdeck.com/paultaykalo/lost-in-maintenance-in-swift) | [Video (Russian)](coming soon)
+|  "Type-safe meta programming in Swift? Let's talk about Sourcery" | [Krzysztof Zablocki](https://twitter.com/merowing_) | 22/07/2017 | [Presentation](coming soon) | [Video (English)](coming soon)
+|  "How to find first users for your iOS/macOS product without budget" | [Lisa Dziuba](https://twitter.com/LisaDziuba) | 22/07/2017 | [Presentation](https://speakerdeck.com/lisadziuba/marketing-for-engineers) | [Video (Russian)](coming soon)
 | "Scaling an app to 175 million users" | [Matej Balantič](https://twitter.com/skavt) | 22/07/2017 | [Presentation](https://speakerdeck.com/matejbalantic/scaling-an-app-to-175-million-users) | [Video (English)](https://youtu.be/EOr7b62lR3I)
 | "Reactive life" | [Perto Korienev](https://www.facebook.com/soxjke) | 22/07/2017 | [Presentation](https://speakerdeck.com/cocoaheadsukraine/recative-life-by-perto-korienev) | [Video (Russian)](https://youtu.be/WXr3cN-xTZg)
 
