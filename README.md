@@ -15,10 +15,10 @@
 
 | 2017 | :santa: | :date: | :pencil: | :movie_camera: |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|---------------------------------|
-|   "Lost in maintenance: criteria of maintainable" | [Paul Taykalo](https://www.facebook.com/ukrainianiphonedeveloper) | 22/07/2017 | [Presentation](https://speakerdeck.com/paultaykalo/lost-in-maintenance-in-swift) | [Video (Russian)](coming soon)
+|   "Lost in maintenance: criteria of maintainable" | [Paul Taykalo](https://www.facebook.com/ukrainianiphonedeveloper) | 22/07/2017 | [Presentation](https://speakerdeck.com/paultaykalo/lost-in-maintenance-in-swift) | [Video (Russian)](https://www.youtube.com/watch?v=ofdDoaGtETo)
 |  "Type-safe meta programming in Swift? Let's talk about Sourcery" | [Krzysztof Zablocki](https://twitter.com/merowing_) | 22/07/2017 | [Presentation](coming soon) | [Video (English)](coming soon)
 |  "How to find first users for your iOS/macOS product without budget" | [Lisa Dziuba](https://twitter.com/LisaDziuba) | 22/07/2017 | [Presentation](https://speakerdeck.com/lisadziuba/marketing-for-engineers) | [Video (Russian)](coming soon)
-| "MVVM+Router with Swift" | Oleksandr Stepanov | 22/07/2017 | [Presentation](coming soon)) | [Video (Russian)](coming soon)
+| "MVVM+Router with Swift" | Oleksandr Stepanov | 22/07/2017 | [Presentation](coming soon)) | [Video (Russian)](https://www.youtube.com/watch?v=0LFtAsGgzIk)
 | ”Short fairytales with unhappy endings” | Oleksandr Korin | 22/07/2017 | [Presentation](coming soon) | [Video (Russian)](coming soon)
 
 **CocoaHeads Kyiv #11**
